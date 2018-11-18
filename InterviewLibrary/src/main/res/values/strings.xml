@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">InterviewLibrary</string>
+
+    <!-- Strings related to login screen  -->
+    <string name="title_activity_login">Sign in</string>
+    <string name="user">Username</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="login">Login</string>
+    <string name="not_reg_yet">Not Registerd yet?</string>
+    <string name="password_mismatch">Password Mismatch</string>
+    <string name="email_mismatch">Email Mismatch</string>
+    <string name="login_success">Login Success</string>
+
+    <!-- Strings related to register screen  -->
+    <string name="title_activity_register">Register</string>
+    <string name="plz_enter_username">Please Enter Username</string>
+    <string name="plz_enter_email">Please Enter Email</string>
+    <string name="plz_enter_password">Please Enter Password</string>
+    <string name="reg_success">RegistrationSuccess</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <!-- Strings related to home screen  -->
+    <string name="title_activity_lib_home">LibraryHome</string>
+    <string name="payment">Trigger Payment</string>
+    <string name="signout">Signout</string>
+    <string name="exit">Exit</string>
+    <!-- Strings related to payment screen  -->
+    <string name="title_activity_payment">Payment Screen</string>
+    <string name="payment_failure">Payment Failure</string>
+    <string name="payment_success">Payment Success</string>
+    <string name="plz_enter_check"><![CDATA[Please Check Usermame & password]]></string>
+
+
+</resources>

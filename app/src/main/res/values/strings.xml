@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Interview</string>
+    <string name="login_reg">Trigger Login | Registration</string>
+    <string name="payment">Trigger Payment</string>
+    <string name="title_activity_load">LoadActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
